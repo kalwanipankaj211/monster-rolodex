@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kalwanipankaj211/monsters-rolodex.git/static/css/main.fb1a206c.chunk.css",
+    "main.css": "/kalwanipankaj211/monsters-rolodex.git/static/css/main.85a63cac.chunk.css",
     "main.js": "/kalwanipankaj211/monsters-rolodex.git/static/js/main.a7d0e823.chunk.js",
     "main.js.map": "/kalwanipankaj211/monsters-rolodex.git/static/js/main.a7d0e823.chunk.js.map",
     "runtime-main.js": "/kalwanipankaj211/monsters-rolodex.git/static/js/runtime-main.82c99229.js",
@@ -8,15 +8,15 @@
     "static/js/2.6a5852ca.chunk.js": "/kalwanipankaj211/monsters-rolodex.git/static/js/2.6a5852ca.chunk.js",
     "static/js/2.6a5852ca.chunk.js.map": "/kalwanipankaj211/monsters-rolodex.git/static/js/2.6a5852ca.chunk.js.map",
     "index.html": "/kalwanipankaj211/monsters-rolodex.git/index.html",
-    "precache-manifest.03285f9977a03f08386dd385ebd440f7.js": "/kalwanipankaj211/monsters-rolodex.git/precache-manifest.03285f9977a03f08386dd385ebd440f7.js",
+    "precache-manifest.6a49f18f6926ece3a7cd163faccbb2b6.js": "/kalwanipankaj211/monsters-rolodex.git/precache-manifest.6a49f18f6926ece3a7cd163faccbb2b6.js",
     "service-worker.js": "/kalwanipankaj211/monsters-rolodex.git/service-worker.js",
-    "static/css/main.fb1a206c.chunk.css.map": "/kalwanipankaj211/monsters-rolodex.git/static/css/main.fb1a206c.chunk.css.map",
+    "static/css/main.85a63cac.chunk.css.map": "/kalwanipankaj211/monsters-rolodex.git/static/css/main.85a63cac.chunk.css.map",
     "static/js/2.6a5852ca.chunk.js.LICENSE.txt": "/kalwanipankaj211/monsters-rolodex.git/static/js/2.6a5852ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82c99229.js",
     "static/js/2.6a5852ca.chunk.js",
-    "static/css/main.fb1a206c.chunk.css",
+    "static/css/main.85a63cac.chunk.css",
     "static/js/main.a7d0e823.chunk.js"
   ]
 }
